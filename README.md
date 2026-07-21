@@ -7,25 +7,31 @@
 <br/> 
 
 <h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/praveenc5">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45"/>
+<a href="https://linkedin.com/in/praveenc5" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:praveenc102001@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Jervin5">
-<img src="https://cdn.simpleicons.org/github/181717" height="45"/>
+<a href="https://github.com/Jervin5" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Jervin5&style=flat-square&color=blue"/>
+
+</div>
+
+
 </div>
 
 <br/>
