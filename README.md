@@ -4,10 +4,28 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=1F3864&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+TypeScript;Building+Multi-Tenant+SaaS+Platforms;JWT+%7C+REST+API+%7C+MSSQL" alt="Typing SVG" />
 
-<br/>
+<br/> 
 
 <h3 align="center">🌐 Connect with Me</h3>
-<a href="https://linkedin.com/in/praveenc5"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45"/> </a> &nbsp;&nbsp; <a href="mailto:praveenc102001@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/> </a> &nbsp;&nbsp; <a href="https://github.com/Jervin5"> <img src="https://cdn.simpleicons.org/github/181717" height="45"/> </a> </p>
+<p align="center">
+
+<a href="https://linkedin.com/in/praveenc5">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:praveenc102001@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Jervin5">
+<img src="https://cdn.simpleicons.org/github/181717" height="45"/>
+</a>
+
+</p>
 </div>
 
 <br/>
