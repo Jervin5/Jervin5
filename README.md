@@ -1,14 +1,28 @@
-<h1 align="center">Hi there, I'm Praveen 👋</h1>
-<h3 align="center">Full Stack Developer | React.js • Node.js • TypeScript • MSSQL • REST API</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/praveenc5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:praveenc102001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:61DAFB&height=200&section=header&text=Hi%20there,%20I'm%20Praveen%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+TypeScript;Building+Multi-Tenant+SaaS+Platforms;JWT+%7C+REST+API+%7C+MSSQL;Always+shipping+something+new+🚀&font=Fira+Code&center=true&width=600&height=45&color=1F3864&vCenter=true&size=22&pause=1200&duration=3000&repeat=true" />
 
-### 🚀 About Me
+<br/>
+
+<a href="https://linkedin.com/in/praveenc5">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:praveenc102001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Jervin5">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Jervin5&label=Profile%20Views&color=1F3864&style=flat-square" />
+
+</div>
+
+<br/>
+
+## 🚀 About Me
 
 - 💻 Full Stack Developer with **2+ years of experience** building scalable, production-grade web applications
 - 🏢 Currently building multi-tenant SaaS platforms at **CADOpt Technologies**
@@ -16,55 +30,17 @@
 - ⚡ Recently shipped a full-stack **e-commerce platform** and a **multi-tenant AgriTech SaaS product** serving multiple organizations
 - 📫 Reach me at **praveenc102001@gmail.com**
 
----
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mssql,git,postman,vscode&theme=dark" />
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+</div>
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<br/>
 
-**Database**
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-
-#### 🛒 E-Commerce Web Platform
-Full-stack e-commerce application built for a client — product catalog, cart, checkout, and order management.
-`React.js` · `Node.js` · `Express.js` · `TypeScript` · `MSSQL` · `JWT`
-
-#### 🌾 Srivanam — Multi-Tenant AgriTech SaaS Platform
-Multi-tenant SaaS platform enabling farming organizations to monitor plant growth in real time, with zero cross-tenant data leakage.
-`React.js` · `Node.js` · `TypeScript` · `MSSQL` · `JWT` · `Multi-Tenant Architecture`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jervin5&show_icons=true&theme=default&hide_border=true" alt="Praveen's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jervin5&hide_border=true" alt="Praveen's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jervin5&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by — always open to connecting on interesting full-stack and SaaS projects!</i></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:1F3864&height=120&section=footer" width="100%"/>
+  <i>Thanks for stopping by — always open to connecting on interesting full-stack and SaaS projects!</i>
+</div>
