@@ -8,29 +8,14 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
+  <a href="https://linkedin.com/in/praveenc5" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:praveenc102001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Jervin5" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="55"/></a>
 
-<a href="https://linkedin.com/in/praveenc5" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
+  <br><br>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:praveenc102001@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Jervin5" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Jervin5&style=flat-square&color=blue"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Jervin5&style=flat-square&color=blue"/>
 </div>
-
 
 </div>
 
