@@ -9,20 +9,24 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/praveenc5" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:praveenc102001@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Jervin5" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Jervin5&label=👀+Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Jervin5&style=flat-square&color=blue"/>
 
 </div>
 
