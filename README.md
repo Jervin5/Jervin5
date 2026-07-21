@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:61DAFB&height=200&section=header&text=Hi%20there,%20I'm%20Praveen%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+TypeScript;Building+Multi-Tenant+SaaS+Platforms;JWT+%7C+REST+API+%7C+MSSQL;Always+shipping+something+new+🚀&font=Fira+Code&center=true&width=600&height=45&color=1F3864&vCenter=true&size=22&pause=1200&duration=3000&repeat=true" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=1F3864&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+TypeScript;Building+Multi-Tenant+SaaS+Platforms;JWT+%7C+REST+API+%7C+MSSQL" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mssql,git,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,git,postman,vscode&theme=dark" height="55"/>
+<img src="https://icon.icepanel.io/Technology/svg/Microsoft-SQL-Server.svg" height="55" alt="MSSQL" title="Microsoft SQL Server"/>
 
 </div>
 
