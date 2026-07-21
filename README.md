@@ -6,29 +6,27 @@
 
 <br/>
 
-<div align="center">
+<h3 align="center">🌐 Connect with Me</h3>
 
-<a href="https://linkedin.com/in/praveenc5" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/praveenc5" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
+  <a href="mailto:praveenc102001@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:praveenc102001@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+  <a href="https://github.com/Jervin5" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub"/>
+  </a>
+</p>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Jervin5" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Jervin5&style=flat-square&color=blue"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jervin5&label=👀%20Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
